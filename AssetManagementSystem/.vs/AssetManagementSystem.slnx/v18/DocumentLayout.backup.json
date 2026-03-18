@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\application\\assetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\application\\assetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\infrastructure\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\infrastructure\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|c:\\users\\shubham.gauttam\\source\\repos\\assetmanagementsystem\\assetmanagementsystem\\presentation\\assetdisplayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\assetdisplayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\assetupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\assetupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\assetvalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\assetvalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\consoleinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\consoleinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\domain\\entities\\softwarelicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\domain\\entities\\softwarelicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\domain\\entities\\hardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\domain\\entities\\hardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\domain\\entities\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\domain\\entities\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\constants\\displayformats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\constants\\displayformats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\constants\\assetmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\constants\\assetmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\constants\\uimessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\constants\\uimessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\constants\\dateformats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\constants\\dateformats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\constants\\assettypevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\constants\\assettypevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\constants\\assettypemenutexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\constants\\assettypemenutexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\constants\\menuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\constants\\menuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\assetmanagementsystem\\presentation\\constants\\menutexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D64F2FF-FC08-4A0E-AE33-1780827B48C2}|AssetManagementSystem\\AssetManagementSystem.csproj|solutionrelative:assetmanagementsystem\\presentation\\constants\\menutexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssetValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\AssetValidationHelper.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\AssetValidationHelper.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\AssetValidationHelper.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\AssetValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:46:41.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetUpdateService.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\AssetUpdateService.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\AssetUpdateService.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\AssetUpdateService.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\AssetUpdateService.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:40:04.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetDisplayService.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\AssetDisplayService.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\AssetDisplayService.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\AssetDisplayService.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\AssetDisplayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:39:47.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Infrastructure\\AssetRepository.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Infrastructure\\AssetRepository.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Infrastructure\\AssetRepository.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Infrastructure\\AssetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:45:18.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetManager.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Application\\AssetManager.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Application\\AssetManager.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Application\\AssetManager.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Application\\AssetManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:44:20.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\ConsoleInputHandler.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\ConsoleInputHandler.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\ConsoleInputHandler.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\ConsoleInputHandler.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAmwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:46:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\ConsoleMenu.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\ConsoleMenu.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\ConsoleMenu.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:45:47.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Program.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:21:08.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoftwareLicense.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Domain\\Entities\\SoftwareLicense.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Domain\\Entities\\SoftwareLicense.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Domain\\Entities\\SoftwareLicense.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Domain\\Entities\\SoftwareLicense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:22:27.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hardware.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Domain\\Entities\\Hardware.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Domain\\Entities\\Hardware.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Domain\\Entities\\Hardware.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Domain\\Entities\\Hardware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:22:55.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:22:00.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Domain\\Entities\\Asset.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Domain\\Entities\\Asset.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Domain\\Entities\\Asset.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Domain\\Entities\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:21:26.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DisplayFormats.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\DisplayFormats.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\Constants\\DisplayFormats.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\DisplayFormats.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\Constants\\DisplayFormats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:17:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssetMessages.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\AssetMessages.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\Constants\\AssetMessages.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\AssetMessages.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\Constants\\AssetMessages.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:12:18.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UiMessages.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\UiMessages.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\Constants\\UiMessages.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\UiMessages.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\Constants\\UiMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:04:57.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DateFormats.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\DateFormats.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\Constants\\DateFormats.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\DateFormats.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\Constants\\DateFormats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:12:59.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssetTypeValues.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\AssetTypeValues.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\Constants\\AssetTypeValues.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\AssetTypeValues.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\Constants\\AssetTypeValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:13:41.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssetTypeMenuTexts.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\AssetTypeMenuTexts.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\Constants\\AssetTypeMenuTexts.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\AssetTypeMenuTexts.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\Constants\\AssetTypeMenuTexts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:10:27.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuOptions.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\MenuOptions.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\Constants\\MenuOptions.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\MenuOptions.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\Constants\\MenuOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:03:32.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuTexts.cs",
+              "DocumentMoniker": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\MenuTexts.cs",
+              "RelativeDocumentMoniker": "AssetManagementSystem\\Presentation\\Constants\\MenuTexts.cs",
+              "ToolTip": "C:\\Users\\shubham.gauttam\\source\\repos\\AssetManagementSystem\\AssetManagementSystem\\Presentation\\Constants\\MenuTexts.cs",
+              "RelativeToolTip": "AssetManagementSystem\\Presentation\\Constants\\MenuTexts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:02:33.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

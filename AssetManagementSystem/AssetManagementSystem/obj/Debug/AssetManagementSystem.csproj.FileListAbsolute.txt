@@ -1,0 +1,14 @@
+C:\Users\shubham.gauttam\source\repos\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.exe.config
+C:\Users\shubham.gauttam\source\repos\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.exe
+C:\Users\shubham.gauttam\source\repos\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.pdb
+C:\Users\shubham.gauttam\source\repos\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.csproj.AssemblyReference.cache
+C:\Users\shubham.gauttam\source\repos\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\shubham.gauttam\source\repos\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.exe
+C:\Users\shubham.gauttam\source\repos\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.pdb
+C:\Users\shubham.gauttam\source\repos\asset-management-system\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.exe.config
+C:\Users\shubham.gauttam\source\repos\asset-management-system\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.exe
+C:\Users\shubham.gauttam\source\repos\asset-management-system\AssetManagementSystem\AssetManagementSystem\bin\Debug\AssetManagementSystem.pdb
+C:\Users\shubham.gauttam\source\repos\asset-management-system\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.csproj.AssemblyReference.cache
+C:\Users\shubham.gauttam\source\repos\asset-management-system\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\shubham.gauttam\source\repos\asset-management-system\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.exe
+C:\Users\shubham.gauttam\source\repos\asset-management-system\AssetManagementSystem\AssetManagementSystem\obj\Debug\AssetManagementSystem.pdb
